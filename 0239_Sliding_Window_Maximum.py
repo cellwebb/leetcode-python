@@ -15,27 +15,26 @@ https://leetcode.com/problems/sliding-window-maximum/description/
 
 from heapq import heappush, heappop
 
+window_size = lambda l, r: r - l + 1
+
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
+        l = r = 0
         res = []
         h = []
-        
-        window_size = lambda l, r: r - l + 1
-        
-        l = 0
-        r = -1  # set to -1 so it immediately moves to 0
 
-        while r < len(nums) - 1:
-            r += 1
-            if window_size(l, r) > k: l += 1
-            
-            heappush(h, (-nums[r], r, nums[r])) # sort value, index, true value
-            
-            while not (l <= h[0][1] <= r):
-                heappop(h)
-                
+        while r < len(nums) :
+            if window_size(l, r) > k:
+                l += 1
+
+            heappush(h, (-nums[r], r, nums[r]))  # sort value, index, true value
+
             if window_size(l, r) == k:
+                while not (l <= h[0][1] <= r):
+                    heappop(h)
                 max_val = h[0][2]
                 res.append(max_val)
+
+            r += 1
 
         return res
