@@ -19,7 +19,7 @@ All solutions and approaches are my own.
 - [0143 - Reorder List](0143_Reorder_List.py)
 
 
-## Ordered Hash Table
+## Ordered Hash Table (aka Ordered Dictionary)
 - [0146 - LRU Cache](0146_LRU_Cache.py)
 
 
