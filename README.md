@@ -4,8 +4,16 @@
 - [0678 - Valid Parenthesis String](0678_Valid_Parenthesis_String.py)
 
 
+## Hash Table (aka Dictionary)
+- [0146 - LRU Cache](0146_LRU_Cache.py)
+
+
 ## Heap Queue (aka Priority Queue)
 - [0239 - Sliding Window Maximum](0239_Sliding_Window_Maximum.py)
+
+
+## Ordered Hash Table
+- [0146 - LRU Cache](0146_LRU_Cache.py)
 
 
 ## Queues
