@@ -1,6 +1,6 @@
 # leetcode-solutions
 
-All solutions are my own.
+All solutions and approaches are my own.
 
 ## Double-Ended Queues (aka deque)
 - [0143 - Reorder List](0143_Reorder_List.py)
