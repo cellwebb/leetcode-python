@@ -1,6 +1,19 @@
 '''
 Link to problem: https://leetcode.com/problems/lru-cache/solutions/
 
+### Problem Description
+Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
+
+Implement the LRUCache class:
+* `LRUCache(int capacity)` Initialize the LRU cache with **positive** size capacity.
+* `int get(int key)` Return the value of the `key` if the key exists, otherwise return `-1`.
+* void put(int key, int value) Update the value of the `key` if the key exists. Otherwise, add the key-value pair to the cache.
+    * If the number of keys exceeds the `capacity` from this operation, evict the least recently used key.
+
+The functions get and put must each run in `O(1)` average time complexity.
+### End Description
+
+
 # Approach
 - When we initialize, we create two attributes, an int for tracking capacity, and an OrderedDict (OD)
 - In addition to holding key-value pairs, ODs track the order pairs are added, so you can OD.popitem() to remove the most recent, or OD.popitem(last=False) to remove the least recent
@@ -17,8 +30,8 @@ My solution: https://leetcode.com/problems/lru-cache/solutions/2794213/python-or
 
 Execution time: 780 ms (faster than 96.10%)
 Memory usage: 78.7 MB (smaller than 90.22%)
-Time complexity: O(n)
-Space complexity: O(n)
+Time complexity: O(n) where n is the number of `get` and `put` actions (each get & put action runs in O(1) time complexity)
+Space complexity: O(n) where n is capacity
 '''
 
 # Your LRUCache object will be instantiated and called as such:
