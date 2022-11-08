@@ -1,5 +1,7 @@
 # leetcode-solutions
 
+All solutions are my own
+
 ## Double-ended Queues
 - [0678 - Valid Parenthesis String](0678_Valid_Parenthesis_String.py)
 
