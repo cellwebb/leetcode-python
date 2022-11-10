@@ -2,6 +2,9 @@
 
 All solutions and approaches are my own.
 
+## Counters
+- [0846 - Hand of Straights](0846_Hand_of_Straights.py)
+
 ## Double-Ended Queues (aka deque)
 - [0143 - Reorder List](0143_Reorder_List.py)
 - [0678 - Valid Parenthesis String](0678_Valid_Parenthesis_String.py)
@@ -9,6 +12,7 @@ All solutions and approaches are my own.
 
 ## Hash Table (aka Dictionary)
 - [0146 - LRU Cache](0146_LRU_Cache.py)
+- [0846 - Hand of Straights](0846_Hand_of_Straights.py)
 
 
 ## Heap Queue (aka Priority Queue)
@@ -28,6 +32,10 @@ All solutions and approaches are my own.
 - [0143 - Reorder List](0143_Reorder_List.py)
 - [0239 - Sliding Window Maximum](0239_Sliding_Window_Maximum.py)
 - [0678 - Valid Parenthesis String](0678_Valid_Parenthesis_String.py)
+
+
+## Sets
+- [0846 - Hand of Straights](0846_Hand_of_Straights.py)
 
 
 ## Sliding Window
