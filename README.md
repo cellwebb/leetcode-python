@@ -1,6 +1,6 @@
 # leetcode-solutions
 
-All solutions and approaches are my own.
+All solutions and solution explanations are my own.
 
 ## Counters
 - [0846 - Hand of Straights](0846_Hand_of_Straights.py)
