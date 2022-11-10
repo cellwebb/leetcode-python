@@ -1,5 +1,5 @@
 '''
-Link to problem: https://leetcode.com/problems/lru-cache/solutions/
+Link to problem: https://leetcode.com/problems/lru-cache/
 
 ### Problem Description
 Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
