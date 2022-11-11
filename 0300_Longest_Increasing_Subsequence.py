@@ -3,6 +3,8 @@ Link to problem: https://leetcode.com/problems/longest-increasing-subsequence/
 
 ### Problem Description
 Given an integer array nums, return the length of the longest strictly increasing subsequence.
+Asubsequence is an array that can be derived from another array by deleting some or no elements without changing the order
+of the remaining elements.
 ###
 
 # Approach
@@ -39,13 +41,12 @@ We can interpret `memo` like so:
 The last number in `memo` is `2`, with index 4, so a subset of size 4 can be created starting from it: `[2, 3, 7, 101]`. 
 This is the largest subsequence possible, so we return 4.
 
+My solution on leetcode: https://leetcode.com/problems/longest-increasing-subsequence/solutions/2804893/python-easy-to-follow-faster-than-98-71-70-ms-dynamic-programming-memoization/
 
 Execution time: 70 ms (faster than 98.71%)
 Memory usage: 14.3 MB (best was 13.6 MB)
-Time complexity: O(n)
+Time complexity: O(nlogn)
 Space complexity: O(n)
-
-My solution on leetcode: https://leetcode.com/problems/longest-increasing-subsequence/solutions/2804893/python-easy-to-follow-faster-than-98-71-70-ms-dynamic-programming-memoization/
 '''
 
 class Solution:
