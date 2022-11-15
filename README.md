@@ -17,6 +17,7 @@ All solutions and solution explanations are my own.
 
 
 ## Dynamic Programming
+- [0198 - House Robber](0198_House_Robber.py)
 - [0300 - Longest Increasing Subsequence](0300_Longest_Increasing_Subsequence.py)
 
 
