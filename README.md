@@ -2,8 +2,14 @@
 
 All solutions and solution explanations are my own.
 
+
+## Classes
+- [2013 - Detect Squares](2013_Detect_Squares.py)
+
+
 ## Counters
 - [0846 - Hand of Straights](0846_Hand_of_Straights.py)
+
 
 ## Double-Ended Queues (aka deque)
 - [0143 - Reorder List](0143_Reorder_List.py)
@@ -14,9 +20,14 @@ All solutions and solution explanations are my own.
 - [0300 - Longest Increasing Subsequence](0300_Longest_Increasing_Subsequence.py)
 
 
+## Geometry
+- [2013 - Detect Squares](2013_Detect_Squares.py)
+
+
 ## Hash Table (aka Dictionary)
 - [0146 - LRU Cache](0146_LRU_Cache.py)
 - [0846 - Hand of Straights](0846_Hand_of_Straights.py)
+- [2013 - Detect Squares](2013_Detect_Squares.py)
 
 
 ## Heap Queue (aka Priority Queue)
@@ -25,6 +36,10 @@ All solutions and solution explanations are my own.
 
 ## Linked List
 - [0143 - Reorder List](0143_Reorder_List.py)
+
+
+## Math
+- [2013 - Detect Squares](2013_Detect_Squares.py)
 
 
 ## Memoization
