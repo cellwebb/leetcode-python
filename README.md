@@ -52,7 +52,7 @@ All solutions and solution explanations are my own.
 
 
 ## Queues
-- [0084 - Largest Rectangle in Histogram (HARD)](0084_Largest_Rectangle_in_Histogram.py)
+- [0084 - Largest Rectangle in Histogram](0084_Largest_Rectangle_in_Histogram.py) *
 - [0143 - Reorder List](0143_Reorder_List.py)
 - [0239 - Sliding Window Maximum](0239_Sliding_Window_Maximum.py)
 - [0678 - Valid Parenthesis String](0678_Valid_Parenthesis_String.py)
@@ -68,9 +68,11 @@ All solutions and solution explanations are my own.
 
 
 ## Stacks
-- [0084 - Largest Rectangle in Histogram (HARD)](0084_Largest_Rectangle_in_Histogram.py)
+- [0084 - Largest Rectangle in Histogram](0084_Largest_Rectangle_in_Histogram.py) *
 
 
 ## Two Pointers
 - [0011 - Container With Most Water.py](0011_Container_With_Most_Water.py)
 - [0239 - Sliding Window Maximum](0239_Sliding_Window_Maximum.py)
+
+*: Hard
