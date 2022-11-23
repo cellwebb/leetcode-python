@@ -1,7 +1,6 @@
 '''
-https://leetcode.com/problems/interleaving-string/description/
-
-Solution Explanation: https://tinyurl.com/yckpe44n
+Problem: https://leetcode.com/problems/interleaving-string/description/
+Explanation of my solution: https://tinyurl.com/a9ujkfjc
 
 Runtime: 39 ms (Beats 96.29%)
 Memory: 16.9 MB
