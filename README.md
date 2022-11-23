@@ -9,12 +9,14 @@ All solutions and solution explanations are my own.
 ## Caching/Memoization
 - 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://tinyurl.com/a9ujkfjc)
 - [0300 - Longest Increasing Subsequence](0300_Longest_Increasing_Subsequence.py)
+
+
 ## Classes
 - [2013 - Detect Squares](2013_Detect_Squares.py)
 
 
 ## Combinatorics
-- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://leetcode.com/problems/subsets-ii/solutions/2840466/python3-5-lines-w-explanation-beats-97-runtime-93-memory-combinatorics/)
+- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://tinyurl.com/3vfhhruu)
 
 
 ## Counters
@@ -36,7 +38,7 @@ All solutions and solution explanations are my own.
 
 
 ## Hash Table (Dictionary/Set)
-- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://leetcode.com/problems/subsets-ii/solutions/2840466/python3-5-lines-w-explanation-beats-97-runtime-93-memory-combinatorics/)
+- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://tinyurl.com/3vfhhruu)
 - [0146 - LRU Cache](0146_LRU_Cache.py)
 - [0846 - Hand of Straights](0846_Hand_of_Straights.py)
 - [2013 - Detect Squares](2013_Detect_Squares.py)
@@ -70,7 +72,7 @@ All solutions and solution explanations are my own.
 
 
 ## Sets
-- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://leetcode.com/problems/subsets-ii/solutions/2840466/python3-5-lines-w-explanation-beats-97-runtime-93-memory-combinatorics/)
+- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://tinyurl.com/3vfhhruu)
 - [0846 - Hand of Straights](0846_Hand_of_Straights.py)
 
 
