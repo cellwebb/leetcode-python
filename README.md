@@ -3,9 +3,12 @@
 All solutions and solution explanations are my own.
 
 ## Backtracking
-- [0097 - Interleaving String](0097_Interleaving_String.py)
+- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703/python-12-lines-w-explanation-faster-than-96-backtracking-w-cacheing-39-ms/)
 
 
+## Caching/Memoization
+- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703/python-12-lines-w-explanation-faster-than-96-backtracking-w-cacheing-39-ms/)
+- [0300 - Longest Increasing Subsequence](0300_Longest_Increasing_Subsequence.py)
 ## Classes
 - [2013 - Detect Squares](2013_Detect_Squares.py)
 
@@ -18,7 +21,7 @@ All solutions and solution explanations are my own.
 - [0846 - Hand of Straights](0846_Hand_of_Straights.py)
 
 
-## Double-Ended Queues (aka deque)
+## Double-Ended Queues
 - [0143 - Reorder List](0143_Reorder_List.py)
 - [0678 - Valid Parenthesis String](0678_Valid_Parenthesis_String.py)
 
@@ -51,11 +54,6 @@ All solutions and solution explanations are my own.
 - [2013 - Detect Squares](2013_Detect_Squares.py)
 
 
-## Memoization
-- [0097 - Interleaving String](0097_Interleaving_String.py)
-- [0300 - Longest Increasing Subsequence](0300_Longest_Increasing_Subsequence.py)
-
-
 ## Ordered Hash Table (aka Ordered Dictionary)
 - [0146 - LRU Cache](0146_LRU_Cache.py)
 
@@ -68,7 +66,7 @@ All solutions and solution explanations are my own.
 
 
 ## Recursion
-- [0097 - Interleaving String](0097_Interleaving_String.py)
+- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703/python-12-lines-w-explanation-faster-than-96-backtracking-w-cacheing-39-ms/)
 
 
 ## Sets
