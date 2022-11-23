@@ -3,11 +3,11 @@
 All solutions and solution explanations are my own.
 
 ## Backtracking
-- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703/python-12-lines-w-explanation-faster-than-96-backtracking-w-cacheing-39-ms/)
+- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://tinyurl.com/a9ujkfjc)
 
 
 ## Caching/Memoization
-- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703/python-12-lines-w-explanation-faster-than-96-backtracking-w-cacheing-39-ms/)
+- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://tinyurl.com/a9ujkfjc)
 - [0300 - Longest Increasing Subsequence](0300_Longest_Increasing_Subsequence.py)
 ## Classes
 - [2013 - Detect Squares](2013_Detect_Squares.py)
@@ -66,7 +66,7 @@ All solutions and solution explanations are my own.
 
 
 ## Recursion
-- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703/python-12-lines-w-explanation-faster-than-96-backtracking-w-cacheing-39-ms/)
+- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://tinyurl.com/a9ujkfjc)
 
 
 ## Sets
