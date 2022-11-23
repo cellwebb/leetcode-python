@@ -1,8 +1,9 @@
 '''
-https://leetcode.com/problems/subsets-ii/description/
+Problem: https://leetcode.com/problems/subsets-ii/description/
+Explanation of my solution: https://tinyurl.com/3vfhhruu
 
-Runtime: 35 ms (Beats 97.15% of other solutions)
-Memory: 14.1 MB (Beats 93.26% of mother solutions)
+Runtime: 35 ms (Beats 97.15%)
+Memory: 14.1 MB (Beats 93.26%)
 '''
 
 class Solution:
