@@ -1,3 +1,10 @@
+'''
+https://leetcode.com/problems/subsets-ii/description/
+
+Runtime: 35 ms (Beats 97.15% of other solutions)
+Memory: 14.1 MB (Beats 93.26% of mother solutions)
+'''
+
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
         subsets_by_index = [[]] + [x for i in range(1, len(nums) + 1) for x in combinations(range(len(nums)), i)]
