@@ -10,6 +10,10 @@ All solutions and solution explanations are my own.
 - [2013 - Detect Squares](2013_Detect_Squares.py)
 
 
+## Combinatorics
+- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://leetcode.com/problems/subsets-ii/solutions/2840466/python3-5-lines-w-explanation-beats-97-runtime-93-memory-combinatorics/)
+
+
 ## Counters
 - [0846 - Hand of Straights](0846_Hand_of_Straights.py)
 
@@ -28,7 +32,8 @@ All solutions and solution explanations are my own.
 - [2013 - Detect Squares](2013_Detect_Squares.py)
 
 
-## Hash Table (aka Dictionary)
+## Hash Table (Dictionary/Set)
+- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://leetcode.com/problems/subsets-ii/solutions/2840466/python3-5-lines-w-explanation-beats-97-runtime-93-memory-combinatorics/)
 - [0146 - LRU Cache](0146_LRU_Cache.py)
 - [0846 - Hand of Straights](0846_Hand_of_Straights.py)
 - [2013 - Detect Squares](2013_Detect_Squares.py)
@@ -67,6 +72,7 @@ All solutions and solution explanations are my own.
 
 
 ## Sets
+- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://leetcode.com/problems/subsets-ii/solutions/2840466/python3-5-lines-w-explanation-beats-97-runtime-93-memory-combinatorics/)
 - [0846 - Hand of Straights](0846_Hand_of_Straights.py)
 
 
