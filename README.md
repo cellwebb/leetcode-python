@@ -3,8 +3,8 @@
 All solutions and solution explanations are my own.
 
 ## #11: Container With Most Water
+- Concepts: Sliding Window, Two Pointers
 - Links: [Solution](0011_Container_With_Most_Water.py)
-- Concepts: Sliding Window, Two Pointers,
 
 
 ## #40: Combination Sum II
@@ -13,7 +13,7 @@ All solutions and solution explanations are my own.
 
 ## #84: Largest Rectangle in Histogram
 - Links: [Solution](0084_Largest_Rectangle_in_Histogram.py)
-- Concepts: Queues, Stacks,
+- Concepts: Queues, Stacks
 - Hard Difficulty
 
 
@@ -24,8 +24,7 @@ All solutions and solution explanations are my own.
 
 ## #97: Interleaving String
 - Links: [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703/)
-- Concepts: Recursion, Backtracking, Memoization, Depth-First Search, Combinatorics, Hash Table
-- Difficulty: Medium
+- Concepts: Recursion, Backtracking, Memoization, Depth-First Search
 
 
 ## #143: Reorder List
@@ -40,7 +39,7 @@ All solutions and solution explanations are my own.
 
 ## #198: House Robber
 - Links: [Solution](0198_House_Robber.py)
-- Concepts: Dynamic Programming,
+- Concepts: Dynamic Programming
 
 
 ## #239: Sliding Window Maximum
@@ -55,7 +54,7 @@ All solutions and solution explanations are my own.
 
 ## #678: Valid Parenthesis String
 - Links: [Solution](0678_Valid_Parenthesis_String.py)
-- Concepts: Double-Ended Queues,
+- Concepts: Double-Ended Queues
 
 
 ## #846: Hand of Straights
@@ -65,5 +64,5 @@ All solutions and solution explanations are my own.
 
 ## #2013: Detect Squares
 - Links: [Solution](2013_Detect_Squares.py)
-- Concepts: Classes, Geometry, Hash Table, 
+- Concepts: Classes, Geometry, Hash Tables
 
