@@ -2,92 +2,64 @@
 
 All solutions and solution explanations are my own.
 
-## Backtracking
-- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://tinyurl.com/a9ujkfjc)
+## #11: Container With Most Water
+- Links: [Solution](0011_Container_With_Most_Water.py)
+- Concepts: Sliding Window, Two Pointers,
 
 
-## Caching/Memoization
-- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://tinyurl.com/a9ujkfjc)
-- [0300 - Longest Increasing Subsequence](0300_Longest_Increasing_Subsequence.py)
+## #84: Largest Rectangle in Histogram
+- Links: [Solution](0084_Largest_Rectangle_in_Histogram.py)
+- Concepts: Queues, Stacks,
+- Difficulty: Hard
 
 
-## Classes
-- [2013 - Detect Squares](2013_Detect_Squares.py)
+## #90: Subsets II
+- Links: [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://leetcode.com/problems/subsets-ii/solutions/2840466/)
+- Concepts: Hash Table, Sets
 
 
-## Combinatorics
-- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://tinyurl.com/3vfhhruu)
+## #97: Interleaving String
+- Links: [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703/)
+- Concepts: Recursion, Backtracking, Memoization, Depth-First Search, Combinatorics, Hash Table
+- Difficulty: Medium
 
 
-## Counters
-- [0846 - Hand of Straights](0846_Hand_of_Straights.py)
+## #143: Reorder List
+- Links: [Solution](0143_Reorder_List.py)
+- Concepts: Linked Lists, Double-Ended Queues,
 
 
-## Double-Ended Queues
-- [0143 - Reorder List](0143_Reorder_List.py)
-- [0678 - Valid Parenthesis String](0678_Valid_Parenthesis_String.py)
+## #146: LRU Cache
+- Links: [Solution](0146_LRU_Cache.py)
+- Concepts: Classes, Ordered Hash Table
 
 
-## Dynamic Programming
-- [0198 - House Robber](0198_House_Robber.py)
-- [0300 - Longest Increasing Subsequence](0300_Longest_Increasing_Subsequence.py)
+## #198: House Robber
+- Links: [Solution](0198_House_Robber.py)
+- Concepts: Dynamic Programming,
 
 
-## Geometry
-- [2013 - Detect Squares](2013_Detect_Squares.py)
+## #239: Sliding Window Maximum
+- Links: [Solution](0239_Sliding_Window_Maximum.py)
+- Concepts: Sliding Window, Priority Queues, Heaps, Two Pointers,
 
 
-## Hash Table (Dictionary/Set)
-- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://tinyurl.com/3vfhhruu)
-- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://tinyurl.com/a9ujkfjc)
-- [0146 - LRU Cache](0146_LRU_Cache.py)
-- [0846 - Hand of Straights](0846_Hand_of_Straights.py)
-- [2013 - Detect Squares](2013_Detect_Squares.py)
+## #300 - Longest Increasing Subsequence
+- Links: [Solution](0300_Longest_Increasing_Subsequence.py)
+- Concepts: Dynamic Programming, Memoization
 
 
-## Heap Queue (aka Priority Queue)
-- [0239 - Sliding Window Maximum](0239_Sliding_Window_Maximum.py)
+## #678: Valid Parenthesis String
+- Links: [Solution](0678_Valid_Parenthesis_String.py)
+- Concepts: Double-Ended Queues,
 
 
-## Linked List
-- [0143 - Reorder List](0143_Reorder_List.py)
+## #846: Hand of Straights
+- Links: [Solution](0846_Hand_of_Straights.py)
+- Concepts: Counters, Hash Table, Set Operations
 
 
-## Math
-- [2013 - Detect Squares](2013_Detect_Squares.py)
+## #2013: Detect Squares
+- Links: [Solution](2013_Detect_Squares.py)
+- Concepts: Classes, Geometry, Hash Table, 
 
-
-## Ordered Hash Table (Ordered Dictionary)
-- [0146 - LRU Cache](0146_LRU_Cache.py)
-
-
-## Queues
-- [0084 - Largest Rectangle in Histogram](0084_Largest_Rectangle_in_Histogram.py) *
-- [0143 - Reorder List](0143_Reorder_List.py)
-- [0239 - Sliding Window Maximum](0239_Sliding_Window_Maximum.py)
-- [0678 - Valid Parenthesis String](0678_Valid_Parenthesis_String.py)
-
-
-## Recursion
-- 97: Interleaving String - [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://tinyurl.com/a9ujkfjc)
-
-
-## Sets
-- 90: Subsets II - [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://tinyurl.com/3vfhhruu)
-- [0846 - Hand of Straights](0846_Hand_of_Straights.py)
-
-
-## Sliding Window
-- [0011 - Container With Most Water](0011_Container_With_Most_Water.py)
-- [0239 - Sliding Window Maximum](0239_Sliding_Window_Maximum.py)
-
-
-## Stacks
-- [0084 - Largest Rectangle in Histogram](0084_Largest_Rectangle_in_Histogram.py) *
-
-
-## Two Pointers
-- [0011 - Container With Most Water.py](0011_Container_With_Most_Water.py)
-- [0239 - Sliding Window Maximum](0239_Sliding_Window_Maximum.py)
-
-*: Hard
