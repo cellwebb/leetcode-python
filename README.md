@@ -11,6 +11,7 @@ All solutions and solution explanations are my own.
 
 ### #40: Combination Sum II
 - Links: [Problem](https://leetcode.com/problems/combination-sum-ii) - [Solution](0040_Combination_Sum_II.py)
+- Concepts: Dynamic Programming, Backtracking, Recursion, Depth-First Search
 
 
 ### #51: N-Queens**
