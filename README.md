@@ -14,7 +14,7 @@ All solutions and solution explanations are my own.
 ## #84: Largest Rectangle in Histogram
 - Links: [Solution](0084_Largest_Rectangle_in_Histogram.py)
 - Concepts: Queues, Stacks,
-- Difficulty: Hard
+- Hard Difficulty
 
 
 ## #90: Subsets II
