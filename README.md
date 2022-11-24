@@ -11,6 +11,12 @@ All solutions and solution explanations are my own.
 - Links: [Problem](https://leetcode.com/problems/combination-sum-ii) - [Solution](0040_Combination_Sum_II.py)
 
 
+## #51: N-Queens
+- Links: [Problem](https://leetcode.com/problems/n-queens) - [Solution](0051_N_Queens.py)
+- Concepts: Depth-First Search, Recursion, Backtracking
+- Hard Difficulty
+
+
 ## #84: Largest Rectangle in Histogram
 - Links: [Solution](0084_Largest_Rectangle_in_Histogram.py)
 - Concepts: Queues, Stacks
@@ -18,12 +24,12 @@ All solutions and solution explanations are my own.
 
 
 ## #90: Subsets II
-- Links: [Problem](https://leetcode.com/problems/subsets-ii/description/) - [Solution](0090_Subsets_II.py) - [Explanation](https://leetcode.com/problems/subsets-ii/solutions/2840466/)
+- Links: [Problem](https://leetcode.com/problems/subsets-ii) - [Solution](0090_Subsets_II.py) - [Explanation](https://leetcode.com/problems/subsets-ii/solutions/2840466)
 - Concepts: Hash Table, Sets
 
 
 ## #97: Interleaving String
-- Links: [Problem](https://leetcode.com/problems/interleaving-string/description/) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703/)
+- Links: [Problem](https://leetcode.com/problems/interleaving-string) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703)
 - Concepts: Recursion, Backtracking, Memoization, Depth-First Search
 
 
