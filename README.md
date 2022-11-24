@@ -17,6 +17,12 @@ All solutions and solution explanations are my own.
 - Hard Difficulty
 
 
+## #72: Edit Distance
+- Links: [Problem](https://leetcode.com/problems/edit-distance) - [Solution](0072_Edit_Distance.py)
+- Concepts: Depth-First Search, Dynamic Programming, Memoization, Recursion
+- Hard Difficulty
+
+
 ## #84: Largest Rectangle in Histogram
 - Links: [Solution](0084_Largest_Rectangle_in_Histogram.py)
 - Concepts: Queues, Stacks
