@@ -9,12 +9,12 @@ class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         self.ans = []
         self.n = n
-        self.place_queen([])
+        self.place_queens([])
 
         return self.ans
 
 
-    def place_queen(self, queens: List[List[str]]) -> None:
+    def place_queens(self, queens: List[List[str]]) -> None:
         row = len(queens)
 
         if row == self.n:
@@ -25,7 +25,7 @@ class Solution:
         for col in range(self.n):
             new_queens = queens + [[row, col]]
             if self.check_attacks(new_queens):
-                self.place_queen(new_queens)
+                self.place_queens(new_queens)
 
 
     def check_attacks(self, queens: List[List[int]]) -> bool:
