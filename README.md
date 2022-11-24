@@ -7,6 +7,10 @@ All solutions and solution explanations are my own.
 - Concepts: Sliding Window, Two Pointers,
 
 
+## #40: Combination Sum II
+- Links: [Problem](https://leetcode.com/problems/combination-sum-ii) - [Solution](0040_Combination_Sum_II.py)
+
+
 ## #84: Largest Rectangle in Histogram
 - Links: [Solution](0084_Largest_Rectangle_in_Histogram.py)
 - Concepts: Queues, Stacks,
