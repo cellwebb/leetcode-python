@@ -11,17 +11,17 @@ All solutions and solution explanations are my own.
 
 ### #40: Combination Sum II
 - Links: [Problem](https://leetcode.com/problems/combination-sum-ii) - [Solution](0040_Combination_Sum_II.py)
-- Concepts: Dynamic Programming, Backtracking, Recursion, Depth-First Search
+- Concepts: Depth-First Search, Dynamic Programming
 
 
 ### #51: N-Queens**
 - Links: [Problem](https://leetcode.com/problems/n-queens) - [Solution](0051_N_Queens.py)
-- Concepts: Depth-First Search, Recursion, Backtracking
+- Concepts: Depth-First Search, Backtracking
 
 
 ### #72: Edit Distance**
 - Links: [Problem](https://leetcode.com/problems/edit-distance) - [Solution](0072_Edit_Distance.py)
-- Concepts: Depth-First Search, Dynamic Programming, Memoization, Recursion
+- Concepts: Depth-First Search, Dynamic Programming
 
 
 ### #84: Largest Rectangle in Histogram**
@@ -36,17 +36,17 @@ All solutions and solution explanations are my own.
 
 ### #97: Interleaving String
 - Links: [Problem](https://leetcode.com/problems/interleaving-string) - [Solution](0097_Interleaving_String.py) - [Explanation](https://leetcode.com/problems/interleaving-string/solutions/2832703)
-- Concepts: Recursion, Backtracking, Memoization, Depth-First Search
+- Concepts: Depth-First Search, Backtracking
 
 
 ### #143: Reorder List
 - Links: [Solution](0143_Reorder_List.py)
-- Concepts: Linked Lists, Double-Ended Queues,
+- Concepts: Linked Lists, Double-Ended Queues
 
 
 ### #146: LRU Cache
 - Links: [Solution](0146_LRU_Cache.py)
-- Concepts: Classes, Ordered Hash Table
+- Concepts: Classes, Ordered Hash Tables
 
 
 ### #198: House Robber
@@ -56,7 +56,7 @@ All solutions and solution explanations are my own.
 
 ### #239: Sliding Window Maximum
 - Links: [Solution](0239_Sliding_Window_Maximum.py)
-- Concepts: Sliding Window, Priority Queues, Heaps, Two Pointers,
+- Concepts: Sliding Windows, Priority Queues
 
 
 ### #300 - Longest Increasing Subsequence
@@ -75,10 +75,10 @@ All solutions and solution explanations are my own.
 
 ### #846: Hand of Straights
 - Links: [Solution](0846_Hand_of_Straights.py)
-- Concepts: Counters, Hash Table, Set Operations
+- Concepts: Counters, Set Operations
 
 
 ### #2013: Detect Squares
 - Links: [Solution](2013_Detect_Squares.py)
-- Concepts: Classes, Geometry, Hash Tables
+- Concepts: Geometry, Hash Tables
 
