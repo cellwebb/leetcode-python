@@ -80,5 +80,5 @@ All solutions and solution explanations are my own.
 
 ### #2013: Detect Squares
 - Links: [Solution](2013_Detect_Squares.py)
-- Concepts: Geometry, Hash Tables
+- Concepts: Geometry, Classes
 
