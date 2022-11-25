@@ -69,6 +69,10 @@ All solutions and solution explanations are my own.
 - Concepts: Double-Ended Queues
 
 
+## #746: Min Cost Climbing Stairs
+- Links: [Problem](https://leetcode.com/problems/min-cost-climbing-stairs) - [Solution](0746_Min_Cost_Climbing_Stairs.py)
+- Concepts: Dynamic Programming, Memoization
+
 ### #846: Hand of Straights
 - Links: [Solution](0846_Hand_of_Straights.py)
 - Concepts: Counters, Hash Table, Set Operations
