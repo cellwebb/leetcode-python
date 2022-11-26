@@ -64,6 +64,11 @@ All solutions and solution explanations are my own.
 - Concepts: Dynamic Programming, Memoization
 
 
+## #392 - IS Subsequence
+- Links: [Problem](https://leetcode.com/problems/is-subsequence) - [Solution](0392_Is_Subsequence.py)
+Concepts: Two-Pointers
+
+
 ### #678: Valid Parenthesis String
 - Links: [Solution](0678_Valid_Parenthesis_String.py)
 - Concepts: Double-Ended Queues
