@@ -83,10 +83,15 @@ All solutions and solution explanations are my own.
 - Links: [Problem](https://leetcode.com/problems/min-cost-climbing-stairs) - [Solution](0746_Min_Cost_Climbing_Stairs.py)
 - Concepts: Dynamic Programming, Memoization
 
+
 ### #846: Hand of Straights
 - Links: [Solution](0846_Hand_of_Straights.py)
 - Concepts: Counters, Set Operations
 
+
+### #929
+- Links: [Problem](https://leetcode.com/problems/unique-email-addresses) - [Solution](0929_Unique_Email_Addresses.py)
+- Concepts: Sets, String methods
 
 ### #2013: Detect Squares
 - Links: [Solution](2013_Detect_Squares.py)
