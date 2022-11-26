@@ -39,6 +39,11 @@ All solutions and solution explanations are my own.
 - Concepts: Depth-First Search, Backtracking
 
 
+### #118: Pascal's Triangle
+- Links: [Problem](https://leetcode.com/problems/pascals-triangle) - [Solution](0118_Pascals_Triangle.py)
+- Concepts: Two-Dimensional Dynamic Programming
+
+
 ### #143: Reorder List
 - Links: [Solution](0143_Reorder_List.py)
 - Concepts: Linked Lists, Double-Ended Queues
@@ -64,7 +69,7 @@ All solutions and solution explanations are my own.
 - Concepts: Dynamic Programming, Memoization
 
 
-## #392 - Is Subsequence
+### #392 - Is Subsequence
 - Links: [Problem](https://leetcode.com/problems/is-subsequence) - [Solution](0392_Is_Subsequence.py)
 - Concepts: Two-Pointers
 
@@ -74,7 +79,7 @@ All solutions and solution explanations are my own.
 - Concepts: Double-Ended Queues
 
 
-## #746: Min Cost Climbing Stairs
+### #746: Min Cost Climbing Stairs
 - Links: [Problem](https://leetcode.com/problems/min-cost-climbing-stairs) - [Solution](0746_Min_Cost_Climbing_Stairs.py)
 - Concepts: Dynamic Programming, Memoization
 
