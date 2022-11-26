@@ -89,7 +89,7 @@ All solutions and solution explanations are my own.
 - Concepts: Counters, Set Operations
 
 
-### #929
+### #929 Unique Email Addresses
 - Links: [Problem](https://leetcode.com/problems/unique-email-addresses) - [Solution](0929_Unique_Email_Addresses.py)
 - Concepts: Sets, String methods
 
