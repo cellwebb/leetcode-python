@@ -1,5 +1,5 @@
 '''
-https://leetcode.com/problems/is-subsequence/submissions/849853990/
+https://leetcode.com/problems/is-subsequence
 
 Runtime: 31 ms (Better than 96.4%)
 Memory: 13.9 MB (Better than 82.7%)
