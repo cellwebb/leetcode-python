@@ -29,6 +29,10 @@ All solutions and solution explanations are my own.
 - Concepts: Depth-First Search, Dynamic Programming
 
 
+### #83 
+- Links: [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list) - [Solution](0083_Remove_Duplicates_From_Sorted_List.py)
+- Concepts: Linked Lists
+
 ### #84: Largest Rectangle in Histogram**
 - Links: [Solution](0084_Largest_Rectangle_in_Histogram.py)
 - Concepts: Queues, Stacks
