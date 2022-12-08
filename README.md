@@ -1,4 +1,4 @@
-# leetcode-solutions
+# Python Solutions to LeetCode Problems
 
 All solutions and solution explanations are my own.
 
@@ -29,8 +29,8 @@ All solutions and solution explanations are my own.
 - Concepts: Depth-First Search, Dynamic Programming
 
 
-### #83 
-- Links: [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list) - [Solution](0083_Remove_Duplicates_From_Sorted_List.py)
+### #83: Remove Duplicates from Sorted List
+- Links: [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list) - [Solution](0083_Remove_Duplicates_From_Sorted_List.py) - [Explanation](https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/2892275)
 - Concepts: Linked Lists
 
 ### #84: Largest Rectangle in Histogram**
