@@ -78,6 +78,11 @@ All solutions and solution explanations are my own.
 - Concepts: Sliding Windows, Priority Queues
 
 
+### #283: Move Zeroes
+- Links: [Problem](https://leetcode.com/problems/move-zeroes) - [Solution](0283_Move_Zeroes.py)
+- Concepts: Arrays
+
+
 ### #300 - Longest Increasing Subsequence
 - Links: [Solution](0300_Longest_Increasing_Subsequence.py)
 - Concepts: Dynamic Programming, Memoization
