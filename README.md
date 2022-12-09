@@ -19,6 +19,11 @@ All solutions and solution explanations are my own.
 - Concepts: Depth-First Search, Dynamic Programming
 
 
+### #41: First Missing Positive**
+- Links: [Problem](https://leetcode.com/problems/first-missing-positive) - [Solution](0041_First_Missing_Positive.py) - [Explanation](https://leetcode.com/problems/first-missing-positive/solutions/2895687)
+- Concepts: Hash Tables, Set Functions
+
+
 ### #51: N-Queens**
 - Links: [Problem](https://leetcode.com/problems/n-queens) - [Solution](0051_N_Queens.py)
 - Concepts: Depth-First Search, Backtracking
