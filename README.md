@@ -93,6 +93,11 @@ All solutions and solution explanations are my own.
 - Concepts: Two-Pointers
 
 
+### #658: Find K Closest Elements
+- Links: [Problem](https://leetcode.com/problems/find-k-closest-elements) - [Solution](0658_Find_K_Closest_Elements.py)
+- Concepts: Two Pointers, Sliding Window
+
+
 ### #678: Valid Parenthesis String
 - Links: [Solution](0678_Valid_Parenthesis_String.py)
 - Concepts: Double-Ended Queues
