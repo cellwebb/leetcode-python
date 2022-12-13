@@ -1,8 +1,15 @@
+'''
+Problem: https://leetcode.com/problems/valid-palindrome-ii/
+My Explanation: https://leetcode.com/problems/valid-palindrome-ii/solutions/2906727/
+
+Runtime: 70 ms (Beats 99.69%)
+Memory: 14.5 MB (Beats 89.91%)
+'''
+
 class Solution:
     def validPalindrome(self, s: str) -> bool:
         if s == s[::-1]: return True
 
-        removed = False
         l = 0
         r = len(s) - 1
 
@@ -17,5 +24,5 @@ class Solution:
                     return True
                 else:
                     return False
-        
+
         return True
